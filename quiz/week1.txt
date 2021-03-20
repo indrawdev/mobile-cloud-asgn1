@@ -1,0 +1,26 @@
+Q1. How is metadata about an HTTP request transmitted?
+- Headers
+Q2. Which of the following are ways of sending data to a server in an HTTP request?
+- Query Parameters
+- JSON Encoded Body
+- the Path
+- URL Encoded Body Parameters
+Q3. Which is not an appropriate use of an HTTP header?
+- to communicate the primary payload of an HTTP request
+Q4. What are mime types used for?
+- to describe the type of data being sent to the server
+- to describe the type of data being sent to the client
+- to specify the return type of a function
+- to define a schema for the allowed response headers
+- to define a schema for the allowed request headers
+Q5. Which of the following are components of a communication protocol?
+- Syntax
+- Timing
+- Semantics
+Q6. What are cookies used for?
+- to store data needed by the server on the client
+Q7. What type of protocol is HTTP?
+- Request / Response
+Q8. Which of the following differentiate query parameters from data sent in the body of a request?
+- larger volumes of data are typically sent in the body
+- body parameters can be encoded in multiple formats

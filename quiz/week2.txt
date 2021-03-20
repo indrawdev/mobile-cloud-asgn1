@@ -1,0 +1,13 @@
+Q1. What is the purpose of request routing?
+- to determinate which function should generate the response for a given request.
+Q2. Which of the following are true of client request data?
+- the data could lead to an injection attack
+- the data should be carefully sanitized and validated
+Q3. How is HTTP used in cloud services?
+- HTTP can be used as the communication protocol for talking to cloud services
+Q4. What is the relationship between a Spring controller and the dispatcher servlet?
+- the dispatcher servlet routes HTTP requests to one or more controllers to produce a response
+Q5. Which of the following are true?
+- The PathVariable annotation is used to indicate that a method parameter should be bound to a component of the path the HTTP request was sent to
+- The RequestParam annotation is used to indicate that a method parameter should be bound to a specific parameter from the HTTP request
+- The RequestBody annotation is used to indicate that a method parameter should be bound to the body of an HTTP request
